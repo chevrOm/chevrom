@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Typescript
 - 🔭 I’m currently working with ... frontend development
 - 📫 How to reach me: 
-    <a href="https://twitter.com/aesiel">Francis Twitter</a><br>
+    <a href="https://twitter.com/aesiel" target="_blank">Francis Twitter</a><br>
   
 
 <div>
