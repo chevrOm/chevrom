@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Typescript
 - 🔭 I’m currently working with ... frontend development
 - 📫 How to reach me: 
-    <a href="https://twitter.com/aesiel">Francis Twitter</a>
+    <a href="https://twitter.com/aesiel">Francis Twitter</a><br>
   
 
 <div>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img align="center" alt="fms-android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" >
   <img align="center" alt="fms-android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" >
   <img align="center" alt="fms-android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" >
+    
  </div>
  
   ##
@@ -46,8 +47,12 @@ Here are some ideas to get you started:
  <div>
   <a href="https://github.com/chevrom/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
    <a href="https://instagram.com/aesiel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
  
 
+
 ![Snake animation](https://github.com/chevrOm/chevrom/blob/output/github-contribution-grid-snake.svg)
-  
+     
+<img src="https://komarev.com/ghpvc/?username=chevrOm&color=green" alt="chevrOm" >
+
 </div>
